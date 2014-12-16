@@ -1,0 +1,21 @@
+body {
+	font-family: Arial;
+	font-weight: bold;
+	background-color: #CFCFCF;
+}
+
+h1 {
+	
+}
+
+#container {
+	width: 500px;
+	margin: auto;
+}
+
+blockquote {
+	border: 1px solid white;
+	text-align: center;
+	color: black;
+	margin-left: 0;
+}

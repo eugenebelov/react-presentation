@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"b",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Evgeny Belov/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/PROJECTS/Fusion/Testing/Injection.xml",
+		"/C/Users/Evgeny Belov/Desktop/dist/dist/index.html",
+		"/C/Users/Evgeny Belov/Desktop/dist/dist/scripts/services/users.js",
+		"/C/Users/Evgeny Belov/Desktop/dist/dist/scripts/store.js",
+		"/C/Users/Evgeny Belov/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Diffusion4.5.2_01/Diffusion4.5.2_01/etc/License.xml",
+		"/C/Program Files (x86)/JetBrains/IntelliJ IDEA 13.0/bin/idea.exe.vmoptions",
+		"/C/Diffusion4.5.2_01/Diffusion4.5.2_01/etc/Licence.xml",
+		"/C/Diffusion4.5.2_01/etc/licence.lic",
+		"/D/PROJECTS/Fusion/Build/Apollo.html",
+		"/C/Users/Evgeny Belov/Desktop/a.html",
+		"/C/Users/Evgeny Belov/workspace/.metadata/.plugins/com.pushtechnology.diffusion.core/diffusionLocations.xml",
+		"/C/Diffusion4.5.2_01/etc/Logs.xml",
+		"/C/Program Files/Eclipse/configuration/.settings/org.eclipse.ui.ide.prefs",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/Fusion Apollo/Fusion Apollo/Development/Main/Java/Diffusion/RemoteControl/.classpath",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/Fusion Apollo/Fusion Apollo/Development/Main/Java/Diffusion/RemoteControl/.project",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/Fusion Apollo/Fusion Apollo/Development/Main/Java/Diffusion/RemoteControl/.settings/org.eclipse.jdt.core.prefs",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/Fusion Apollo/Fusion Apollo/Development/Main/Java/Diffusion/RemoteControl/.settings/org.eclipse.ltk.core.refactoring.prefs",
+		"/C/Users/Evgeny Belov/workspace/RemoteSystemsTempFiles/.project",
+		"/C/Users/Evgeny Belov/workspace/.metadata/.plugins/com.pushtechnology.diffusion.core/installsConfig.xml",
+		"/C/Diffusion4.5.2_01/etc/License.xml",
+		"/C/Program Files/Eclipse/configuration/config.ini",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/Diffusion 4.5.2_01_install/Diffusion 4.5.2_01_install/Diffusion4.5.2_01/etc/licence.lic",
+		"/D/PROJECTS/Fusion/EBS-IGNITE/r4.5/r4.5/common.properties",
+		"/D/store/theme/mystile/mystile/lang/en_GB.po",
+		"/D/PROJECTS/price-optimizer/client/html5/autopricer-html5/src/main/scripts/development.sh",
+		"/D/PROJECTS/price-optimizer/client/html5/autopricer-html5/src/main/scripts/development.bat",
+		"/D/PROJECTS/jquery.event.drop-2.2/jquery.event.drop-2.2/jquery.event.drop-2.2.js",
+		"/C/Users/Evgeny Belov/.ssh/config",
+		"/C/Users/Evgeny Belov/.ssh/known_hosts",
+		"/C/Users/Evgeny Belov/.ssh/github_rsa.pub",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/main.js",
+		"/D/PROJECTS/checkbox/index.html",
+		"/C/Users/Evgeny Belov/.ssh/bitbucket_rsa.pub",
+		"/C/Users/Evgeny Belov/Desktop/ratepanel.js",
+		"/C/Users/Evgeny Belov/Desktop/ratedmpanel.js",
+		"/C/Users/Evgeny Belov/Downloads/prettyCheckboxes_uncompressed.1.1/css/prettyCheckboxes.css",
+		"/C/Users/Evgeny Belov/Downloads/prettyCheckboxes_uncompressed.1.1/js/prettyCheckboxes.js",
+		"/C/Users/Evgeny Belov/Downloads/prettyCheckboxes_uncompressed.1.1/index.html",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/some.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/some1.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/some2.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/some3.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/app.build.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/require-jquery.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/app.html",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/jquery.alpha.js",
+		"/D/PROJECTS/require-jquery/jquery-require-sample/webapp/scripts/jquery.beta.js",
+		"/D/PROJECTS/price-optimizer/client/html5/autopricer-html5/src/main/app/assets/js/main.js",
+		"/D/PROJECTS/price-optimizer/client/webjars/webjars.iml",
+		"/D/PROJECTS/angular-ui/angular-ui-bootstrap/pom.xml",
+		"/D/PROJECTS/price-optimizer/client/webjars/js-auto-reload/pom.xml",
+		"/C/Jetty8/etc/jetty.xml",
+		"/D/PROJECTS/price-optimizer/client/webjars/target/maven-archiver/pom.properties",
+		"/D/PROJECTS/price-optimizer/server/web/target/web-1.1-SNAPSHOT/WEB-INF/classes/app.properties",
+		"/D/PROJECTS/price-optimizer/server/web/target/web-1.1-SNAPSHOT/WEB-INF/classes/jdbc.properties",
+		"/D/PROJECTS/price-optimizer/server/web/target/web-1.1-SNAPSHOT/WEB-INF/classes/config/config.properties",
+		"/D/PROJECTS/price-optimizer/server/web/target/classes/app.properties",
+		"/D/PROJECTS/price-optimizer/server/web/target/classes/config/config.properties",
+		"/C/Users/Evgeny Belov/Downloads/AnimationTest/utilities/PropertyAnimator.as",
+		"/C/Users/Evgeny Belov/Downloads/AnimationTest/AnimationTest.mxml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Evgeny Belov\\Desktop\\dist\\dist"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"Package",
+			"Package Co",
+			"key",
+			"getUser",
+			"load(",
+			"getUsers =",
+			".users =",
+			"DEV_WebTraderFlash.swf",
+			"columnWidth",
+			"volume",
+			"container",
+			"build",
+			"        \"",
+			":\"\n",
+			"addConnector"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"iConnectApollo.swf"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}

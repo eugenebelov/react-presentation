@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Website</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/normalize.css">
+  	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<script type="text/x-handlebars">
+    	<h2>Welcome to Ember.js</h2>
+
+	    {{outlet}}
+	</script>
+
+	<script type="text/x-handlebars" id="index">
+	    <ul>
+	    {{#each item in model}}
+	      <li>{{item}}</li>
+	    {{/each}}
+	    </ul>
+	</script>
+
+	<div id="container">
+		<h1>Website</h1>
+		<p>Welcome</p>
+		<ul>
+			<li>Web Development</li>
+			<li>Chess</li>
+			<li>Item3</li>
+			<li>Item4</li>
+		</ul>
+		<h3>Quotes</h3>
+		<blockquote>
+			<p>Quote1</p>
+		</blockquote>
+		<blockquote>
+			<p>Qoute2</p>
+		</blockquote>
+	</div>
+
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.3.0/handlebars.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/ember.js/1.3.1/ember.min.js"></script>
+	<script src="app.js"></script>		
+</body>
+</html>
