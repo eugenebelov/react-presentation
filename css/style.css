@@ -2,3 +2,14 @@
 .ember-application {
     margin: 20px;
 }
+
+.slide-item {
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1;
+}
+
+.left {
+	text-align: left;
+}
