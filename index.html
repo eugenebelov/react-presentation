@@ -9,7 +9,25 @@
   	<link rel="stylesheet" href="bower_components/bootstrap-less/css/bootstrap.css">
 </head>
 <body>
-
+	<script>
+	  window.fbAsyncInit = function() {
+	    FB.init({
+	      appId      : '732652996818386',
+	      xfbml      : true,
+	      version    : 'v2.2'
+	    });
+	
+	    // ADD ADDITIONAL FACEBOOK CODE HERE
+	  };
+	
+	  (function(d, s, id){
+	     var js, fjs = d.getElementsByTagName(s)[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement(s); js.id = id;
+	     js.src = "//connect.facebook.net/en_US/sdk.js";
+	     fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
 	<div id="impress">
 		<div class="slide step slide-item jumbotron" data-x="0">
 		  	<img src="imgs/react.png" alt=""> <h1>React.js</h1>
